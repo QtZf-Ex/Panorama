@@ -1,0 +1,19 @@
+# Generated reports / scan output - contains real network data, never commit
+**/reports/
+certificate_scan_report.csv
+profile_report_*.csv
+potential_mail_bruteforce.csv
+assets_ip_port.csv
+panorama_4771_v2_*.csv
+
+# Local Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
