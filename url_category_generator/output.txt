@@ -1,0 +1,12 @@
+admin.cloud.microsoft/*
+admin.cloud.microsoft/
+www.admin.cloud.microsoft
+www.admin.cloud.microsoft/*
+admin.microsoft.com/*
+admin.microsoft.com/
+www.admin.microsoft.com
+www.admin.microsoft.com/*
+login.microsoftonline.com/*
+login.microsoftonline.com/
+www.login.microsoftonline.com
+www.login.microsoftonline.com/*

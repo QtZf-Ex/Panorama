@@ -1,0 +1,3 @@
+admin.cloud.microsoft
+admin.microsoft.com
+login.microsoftonline.com
